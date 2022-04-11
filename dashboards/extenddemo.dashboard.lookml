@@ -1,5 +1,5 @@
-- dashboard: extend_demo
-  title: extend_demo
+- dashboard: extenddemo
+  title: extenddemo
   layout: newspaper
   preferred_viewer: dashboards-next
   description: ''
